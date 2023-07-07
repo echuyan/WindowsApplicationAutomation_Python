@@ -1,8 +1,8 @@
 # Tools
-WinAppDriver 1.2.1
-Appium Python Client 1.3.0
-inspect.exe from Windows SDK
-WinAppDriverUIRecorder
+1. WinAppDriver 1.2.1
+2. Appium Python Client 1.3.0
+3. inspect.exe from Windows SDK to inspect windows application elements
+4. WinAppDriverUIRecorder to inspect windows application elements
 
 # Installation instructions
 1. Install WinAppDriver 1.2.1 from https://github.com/Microsoft/WinAppDriver/releases
