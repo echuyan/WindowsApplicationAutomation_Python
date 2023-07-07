@@ -4,12 +4,13 @@
 3. inspect.exe from Windows SDK to inspect windows application elements
 4. WinAppDriverUIRecorder to inspect windows application elements
 
-# Installation instructions
+# Installation and run instructions
 1. Install WinAppDriver 1.2.1 from https://github.com/Microsoft/WinAppDriver/releases
 2. Install Appium Python Client python -m pip install Appium-Python-Client==1.3.0
 3. Install Selenium 3.141.0
 4. Enable Developer Mode in Windows settings
-5. Run WinAppDriver.exe from the installation directory 
+5. Run WinAppDriver.exe from the installation directory
+6. Run tests with PyCharm and unittest runner 
  
 # Task
 The objective is to implement a set of test cases:
