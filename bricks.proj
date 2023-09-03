@@ -1,0 +1,4 @@
+<Project>
+    <Assets path="assets/" />
+    <LevelRoot path="./" />
+</Project>
